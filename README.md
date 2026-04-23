@@ -1,3 +1,4 @@
+<img width="620" height="631" alt="Screenshot 2026-04-23 at 14 44 12" src="https://github.com/user-attachments/assets/33e02d76-aca2-4779-9954-2b65a7e59cfa" />
 # Demo Websocket
 
 [![Java](https://img.shields.io/badge/Java-21+-blue.svg)](https://www.oracle.com/java/)
@@ -27,9 +28,7 @@ The backend provides a RESTful API for basic operations and WebSocket endpoints 
 
 Below are sample screenshots of the running application. Place the attached image files into the `screenshots/` folder and update their names here if needed.
 
-![WebSocket Chat Interface 1](screenshots/websocket-chat-1.png)
-
-![WebSocket Chat Interface 2](screenshots/websocket-chat-2.png)
+<img width="1512" height="982" alt="Screenshot 2026-04-23 at 14 28 02" src="https://github.com/user-attachments/assets/66799644-0cf2-4397-ac72-3c77681e706f" />
 
 ## 🏗️ Architecture
 
